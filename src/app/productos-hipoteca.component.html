@@ -1,0 +1,45 @@
+<div>
+    <div class="left-panel">
+    <h1>savas</h1>
+    </div>
+
+    <div class="right-panel">
+    
+        <table class="table" *ngIf='casasModelo && casasModelo.length' >
+            <thead>
+                <tr>
+                    <th>Código de Casa</th>
+                    <th>Código de Modelo de Casa</th>
+                    <th>Descripción</th>
+                    <th>Precio</th>
+                    <th>Imagen</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor='let casaModelo of casasModelo'>
+                    <td>{{casaModelo.productId}}</td>
+                    <td>{{casaModelo.productCode}}</td>
+                    <td>{{casaModelo.description}}</td>
+                    <td>{{casaModelo.price}}</td>
+                    <td>
+                        <img [src]='casaModelo.imageUrl'
+                              [title]='casaModelo.productName'>
+                    </td>
+                </tr>                    
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+

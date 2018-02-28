@@ -1,0 +1,31 @@
+
+
+.picture{
+    background-image: url("/assets/nature-wallpapers-photos-4.jpg");
+    width: 100%;
+    height: 800px;
+}
+
+.backgroundDiv{
+   background-color: white;
+   margin-left: 640px;
+}
+
+.div1{
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-right: 750px; 
+    
+}
+
+.div2{
+    background-color: rgb(206, 215, 224);
+    color: blue;
+    margin-top: 240px;
+   
+    
+}
+.letra{
+    font-family: Arial, Helvetica, sans-serif, Times, serif;
+    font-size: 15px;
+}

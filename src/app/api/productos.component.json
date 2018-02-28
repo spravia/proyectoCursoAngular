@@ -1,0 +1,42 @@
+[
+    {
+        "productId": 1,
+        "productName": "Leaf Rake",
+        "productCode": "CASA-MOD-2A",
+        "description": "Casa Modelo 2A",
+        "price": 132000.00,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Leaf Rake",
+        "productCode": "CASA-MOD-2A",
+        "description": "Casa Modelo 2A",
+        "price": 152152.00,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Leaf Rake",
+        "productCode": "CASA-MOD-2A",
+        "description": "Casa Modelo 2A",
+        "price": 142000.00,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Leaf Rake",
+        "productCode": "CASA-MOD-4A",
+        "description": "Casa Modelo 4A",
+        "price": 162000.00,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Leaf Rake",
+        "productCode": "CASA-MOD-5A",
+        "description": "Casa Modelo 5A",
+        "price": 200000.00,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    }
+]
